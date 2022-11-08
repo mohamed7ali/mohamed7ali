@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Ali
 - 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently learning more about the new technologies and challenges
+- 🌱 I am currently learning more about new technologies and challenges in this field
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me LinkedIn: www.linkedin.com/in/mohamed-ali-a1565a1bb
 
